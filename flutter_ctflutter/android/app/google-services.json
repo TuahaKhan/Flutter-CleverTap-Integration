@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "617396963922",
+    "firebase_url": "https://clevertap-login-default-rtdb.firebaseio.com",
+    "project_id": "clevertap-login",
+    "storage_bucket": "clevertap-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617396963922:android:d10daad06db518e8f5ed8b",
+        "android_client_info": {
+          "package_name": "com.clevertapreactjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ZBpOlJDye2OOp1EPAs91M8u2tNbfRVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617396963922:android:49441f277d64dcd9f5ed8b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ctflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ZBpOlJDye2OOp1EPAs91M8u2tNbfRVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617396963922:android:481e0ff02d218027f5ed8b",
+        "android_client_info": {
+          "package_name": "com.vesitpracticals.clevertaplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ZBpOlJDye2OOp1EPAs91M8u2tNbfRVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
